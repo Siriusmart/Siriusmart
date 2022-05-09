@@ -1,4 +1,4 @@
-A secondary schoool student in Hong Kong, "going down the rabbit hole" of the programming world.
+Random average kid on the internet
 
 ### About Me
 - UK immigrant (Previously living in Hong Kong);
