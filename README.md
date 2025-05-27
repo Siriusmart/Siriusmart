@@ -1,10 +1,12 @@
 ~~If you do care, things are on <a href="https://siriusmart.github.io" target=_blank>my website</a>.~~
 
 > [!NOTE]
-> My website has not been updated for 2 years, here are the projects you might find interesting. All my projects are licensed under variants of the GPL license.
+> My website has not been updated for 2 years, here are the projects you might find interesting.
+>
+> All my projects are licensed under a GPL license.
 
 > [!IMPORTANT]
-> Since you are on this page, I would really like to make some friends. So I would much appreciate if you can
+> Since you are on this page, I would really like to make some friends. I would much appreciate if you can
 > - Join my development Discord server [here](https://discord.gg/WAR9aKVFQJ).
 > - Join my development Matrix space [here](https://matrix.to/#/!qrUQMTxUReiPipzwhb:matrix.org?via=matrix.org) (bridged to Discord).
 > - Or just friend me on [Discord](https://discord.com/users/623823202073706496) or [Matrix](https://matrix.to/#/@siriusmart:matrix.org), 
