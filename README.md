@@ -17,7 +17,7 @@
 
 ## Things that I have worked on
 - **Bar2** - Full AFK travel on nether highways (for anarchy Minecarft servers). [GitHub](https://github.com/Siriusmart/bar2-public).
-- **AnkiPub** - Publish Anki flash cards on a static website. [GitHub](https://github.com/siriusmart/anki-webify) | [Instance](https://siriusmart.github.com/anki)
+- **AnkiPub Viewer** - Publish Anki flash cards on a static website. [GitHub](https://github.com/Siriusmart/ankipub-viewer) | [Instance](https://anki.siri.ws)
 - **GM Services** - Publishing and Minecraft world sharing site based on the same accounts services. [GitHub](https://github.com/orgs/gmornin/repositories)
 - **LaTeX parser** - Multi-stage LaTeX AST parser, the AST retains all information of the original file so can be reconstructed. [GitHub](https://github.com/Siriusmart/latex-ast)
 - **Feedscraper** - RSS feed generater through web scraping. [GitHub](https://github.com/siriusmart/feedscraper)
