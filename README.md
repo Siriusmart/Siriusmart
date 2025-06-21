@@ -1,4 +1,4 @@
-# New Site on [siri.ws](https://siri.ws), check it out!
+# New site on [siri.ws](https://siri.ws), check it out!
 
 > [!NOTE]
 > My website has not been updated for 2 years, here are the projects you might find interesting.
