@@ -1,4 +1,4 @@
-~~If you do care, things are on <a href="https://siriusmart.github.io" target=_blank>my website</a>.~~
+# New Site on [siri.ws](https://siri.ws), check it out!
 
 > [!NOTE]
 > My website has not been updated for 2 years, here are the projects you might find interesting.
