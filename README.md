@@ -6,12 +6,12 @@
 
 ## Right now, I am working on...
 - **Discord Proximity** - adds proximity chat support for Discord. [Setup Guide](https://github.com/Siriusmart/DiscordProximity/blob/master/README.md)
-- **Vanilla Graphics** - a Markdown flavour with support for animations, perfect for explainer articles. [Example article](https://blog.siri.ws/how-to-solve-a-nonogram/) | [Install from NPM](https://www.npmjs.com/package/vanillagraphics) | [Repo](https://github.com/siriusmart/vanilla-graphics)
+- **Vanilla Graphics** - a Markdown flavour with support for animations, perfect for explainer articles. [Example](https://blog.siri.ws/how-to-solve-a-nonogram/) | [Install](https://www.npmjs.com/package/vanillagraphics) | [Repo](https://github.com/siriusmart/vanilla-graphics)
 
 ## In the past year, I wrote code for...
 - **YouTube TUI** - the only thing everyone sees on my profie, urgh! [Docs](https://tui.siri.ws/youtube) | [Repo](https://github.com/siriusmart/youtube-tui)
 - **JSCore** - JavaScript modding\* support for Minecraft Java. [Docs](https://jscore.siri.ws) | [Modrinth](https://modrinth.com/mod/jscore) | [Repo](https://github.com/fabriccore/jscore)
-- **AnkiPub Viewer** - share Anki flashcards on a static website. [Instace (with a few decks I made)](https://anki.siri.ws) | [Repo](https://github.com/Siriusmart/ankipub-viewer)
+- **AnkiPub Viewer** - share Anki flashcards on a static website. [Instance (with a few decks I made)](https://anki.siri.ws) | [Repo](https://github.com/Siriusmart/ankipub-viewer)
 
 ## A long long time ago, I made...
 - **Feedscraper** - RSS feed generator by web-scraping news sites. [Repo](https://github.com/siriusmart/feedscraper)
