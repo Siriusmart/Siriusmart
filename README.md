@@ -24,7 +24,7 @@
 ## I am currently plotting...
 - For a **logic gate simulator** to build a computer in, and
 - A hackable node-based **video editor**, similar to Manim but using ideas from Davinci Resolve, and also
-- A plan to take over the world.
+- A plan to **take over the world**.
 
 ## Of course, I have always been working on...
 - Styling up my Hyprland daily driver. [Dotfiles](https://github.com/Siriusmart/dotfiles)
