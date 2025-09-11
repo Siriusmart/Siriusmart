@@ -23,7 +23,7 @@
 
 ## I am currently plotting...
 - For a **logic gate simulator** to build a computer in, and
-- A hackable node-based **video editor**, similar to Davinci Resolve but also Manim, and also
+- A hackable node-based **video editor**, similar to Manim but using ideas from Davinci Resolve, and also
 - A plan to take over the world.
 
 ## Of course, I have always been working on...
