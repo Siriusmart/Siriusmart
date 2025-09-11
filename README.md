@@ -1,36 +1,40 @@
 # New site on [siri.ws](https://siri.ws), check it out!
 
 > [!NOTE]
-> My website has not been updated for 2 years, here are the projects you might find interesting.
->
+> 
 > All my projects are licensed under a GPL license.
 
-> [!IMPORTANT]
-> Since you are on this page, I would really like to make some friends. I would much appreciate if you can
-> - Join my development Discord server [here](https://discord.gg/WAR9aKVFQJ).
-> - Join my development Matrix space [here](https://matrix.to/#/!qrUQMTxUReiPipzwhb:matrix.org?via=matrix.org) (bridged to Discord).
-> - Or just friend me on [Discord](https://discord.com/users/623823202073706496) or [Matrix](https://matrix.to/#/@siriusmart:matrix.org), 
+## Right now, I am working on...
+- **Discord Proximity** - adds proximity chat support for Discord. [Setup Guide](https://github.com/Siriusmart/DiscordProximity/blob/master/README.md)
+- **Vanilla Graphics** - a Markdown flavour with support for animations, perfect for explainer articles. [Example article](https://blog.siri.ws/how-to-solve-a-nonogram/) | [Install from NPM](https://www.npmjs.com/package/vanillagraphics) | [Repo](https://github.com/siriusmart/vanilla-graphics)
 
-## Things I am currently working on
-- **JSCore** - Minecrarft modding in JavaScript instead of Java. [GitHub](https://github.com/fabriccore) | [Website](https://jscore.siri.ws)
-- **Hypixel Screentime** - Check out how much time you've wasted on Hypixel. [GitHub](https://github.com/siriusmart/hypixel-screentime) | [Instance](https://hypixel.siri.ws)
+## In the past year, I wrote code for...
+- **YouTube TUI** - the only thing everyone sees on my profie, urgh! [Docs](https://tui.siri.ws/youtube) | [Repo](https://github.com/siriusmart/youtube-tui)
+- **JSCore** - JavaScript modding\* support for Minecraft Java. [Docs](https://jscore.siri.ws) | [Modrinth](https://modrinth.com/mod/jscore) | [Repo](https://github.com/fabriccore/jscore)
+- **AnkiPub Viewer** - share Anki flashcards on a static website. [Instace (with a few decks I made)](https://anki.siri.ws) | [Repo](https://github.com/Siriusmart/ankipub-viewer)
 
-## Things that I have worked on
-- **Bar2** - Full AFK travel on nether highways (for anarchy Minecarft servers). [GitHub](https://github.com/Siriusmart/bar2-public).
-- **AnkiPub Viewer** - Publish Anki flash cards on a static website. [GitHub](https://github.com/Siriusmart/ankipub-viewer) | [Instance](https://anki.siri.ws)
-- **GM Services** - Publishing and Minecraft world sharing site based on the same accounts services. [GitHub](https://github.com/orgs/gmornin/repositories)
-- **LaTeX parser** - Multi-stage LaTeX AST parser, the AST retains all information of the original file so can be reconstructed. [GitHub](https://github.com/Siriusmart/latex-ast)
-- **Feedscraper** - RSS feed generater through web scraping. [GitHub](https://github.com/siriusmart/feedscraper)
-- **YouTube TUI** - The only thing everyone sees in my profile, urgh! [GitHub](https://github.com/siriusmart/youtube-tui) | [Docs](https://siriusmart.github.io/youtube-tui)
+## A long long time ago, I made...
+- **Feedscraper** - RSS feed generator by web-scraping news sites. [Repo](https://github.com/siriusmart/feedscraper)
+- **GM Services** - Multi-format article publishing site. [Repos](https://github.com/orgs/gmornin/repositories?type=source)
+- **ccBancho** - Socials system for Minecraft Classic. [Repo](https://github.com/Siriusmart/ccBancho)
+- **Bar2** - Fully automated highway travel for Minecraft anarchy servers. [Repo](https://github.com/Siriusmart/bar2-public)
 
+## I am currently plotting...
+- For a **logic gate simulator** to build a computer in, and
+- A hackable node-based **video editor**, similar to Davinci Resolve but also Manim, and also
+- A plan to take over the world.
 
-## Things that I will pick up again (hopefully)
-- **SimpleRecords** - An elegantly formatted text-based database/config files format beautiful to the eye. [GitHub](https://github.com/Siriusmart/simplerecords) | [Crates.io](https://crates.io/crates/simplerecords)
-- **Merlin** - A module-based Discord bot with an interesting permission system. [GitHub](https://github.com/Siriusmart/merlin) | [Docs](https://siriusmart.github.io/merlin/)
-- **ccBancho** - An attempt to bring Hypixel to Minecraft Classic [GitHub](https://github.com/Siriusmart/ccBancho)
+## Of course, I have always been working on...
+- Styling up my Hyprland daily driver. [Dotfiles](https://github.com/Siriusmart/dotfiles)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siriusmart&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siriusmart&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siriusmart&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siriusmart&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siriusmart&theme=github_dark)
+## Say Hi to Me :D
+- Check out my awesome [YouTube channel](https://youtube.com/@siriusmart)!
+- Join my development server on [Discord](https://discord.gg/WAR9aKVFQJ) and [Matrix](https://matrix.to/#/!qrUQMTxUReiPipzwhb:matrix.org?via=matrix.org), bridged to each other. 
+- You can also friend me on [Discord](https://discord.com/users/623823202073706496) or [Matrix](https://matrix.to/#/@siriusmart:matrix.org).
+- And most importantly, **follow me on GitHub** - where everything happens.
+
+![profile card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siriusmart&theme=github_dark)
+![repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siriusmart&theme=github_dark)
+![commits per language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siriusmart&theme=github_dark)
+![stats card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siriusmart&theme=github_dark)
+![commits by time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siriusmart&theme=github_dark)
