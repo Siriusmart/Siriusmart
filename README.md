@@ -13,6 +13,8 @@
 - **JSCore** - JavaScript modding\* support for Minecraft Java. [Docs](https://jscore.siri.ws) | [Modrinth](https://modrinth.com/mod/jscore) | [Repo](https://github.com/fabriccore/jscore)
 - **AnkiPub Viewer** - share Anki flashcards on a static website. [Instance (with a few decks I made)](https://anki.siri.ws) | [Repo](https://github.com/Siriusmart/ankipub-viewer)
 
+<sub>*No Mixins support yet.</sub>
+
 ## A long long time ago, I made...
 - **Feedscraper** - RSS feed generator by web-scraping news sites. [Repo](https://github.com/siriusmart/feedscraper)
 - **GM Services** - Multi-format article publishing site. [Repos](https://github.com/orgs/gmornin/repositories?type=source)
