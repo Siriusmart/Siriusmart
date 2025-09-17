@@ -6,7 +6,7 @@
 
 ## Right now, I am working on...
 - **Discord Proximity** - adds proximity chat support for Discord. [Setup Guide](https://github.com/Siriusmart/DiscordProximity/blob/master/README.md)
-- **Vanilla Graphics** - a Markdown flavour with animations to write explainer articles. [Example](https://blog.siri.ws/how-to-solve-a-nonogram/) | [Install](https://www.npmjs.com/package/vanillagraphics) | [Repo](https://github.com/siriusmart/vanillagraphics)
+- **Vanilla Graphics (under rewrite)** - an anything-to-anything build tool to publish my notes written in various formats. [Example](https://blog.siri.ws/how-to-solve-a-nonogram/) | [Install](https://www.npmjs.com/package/vanillagraphics) | [Repo](https://github.com/siriusmart/vanillagraphics)
 
 ## In the past year, I wrote code for...
 - **YouTube TUI** - the only thing everyone sees on my profie, urgh! [Docs](https://tui.siri.ws/youtube) | [Repo](https://github.com/siriusmart/youtube-tui)
