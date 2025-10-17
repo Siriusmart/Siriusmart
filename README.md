@@ -1,17 +1,12 @@
-# New site on [siri.ws](https://siri.ws), check it out!
-
-> [!NOTE]
-> 
-> All my projects are licensed under a GPL license.
-
 ## Right now, I am working on...
-- **Discord Proximity** - adds proximity chat support for Discord. [Setup Guide](https://github.com/Siriusmart/DiscordProximity/blob/master/README.md)
 - **Webpan (WIP)** - an anything-to-anything build tool so I can publish my entire notes folder. [Repo](https://github.com/siriusmart/webpan)
+- **Studying Computer Science** - projects will be inactive when I'm busy. [Lecture notes](https://github.com/Siriusmart/notesdump/blob/master/README.md)
 
 ## In the past year, I wrote code for...
 - **YouTube TUI** - the only thing everyone sees on my profie, urgh! [Docs](https://tui.siri.ws/youtube) | [Repo](https://github.com/siriusmart/youtube-tui)
 - **JSCore** - JavaScript modding\* support for Minecraft Java. [Docs](https://jscore.siri.ws) | [Modrinth](https://modrinth.com/mod/jscore) | [Repo](https://github.com/fabriccore/jscore)
 - **AnkiPub Viewer** - share Anki flashcards on a static website. [Instance (with a few decks I made)](https://anki.siri.ws) | [Repo](https://github.com/Siriusmart/ankipub-viewer)
+- **Discord Proximity** - adds proximity chat support for Discord. [Setup Guide](https://github.com/Siriusmart/DiscordProximity/blob/master/README.md)
 
 <sub>*No Mixins support yet.</sub>
 
