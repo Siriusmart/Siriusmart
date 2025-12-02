@@ -1,4 +1,5 @@
 ## Right now, I am working on...
+- **eXtensible Digital logic SIMulator (under design)** - a logic gate simulator where you can make your own gates.
 - **Webpan (WIP)** - an anything-to-anything build tool so I can publish my entire notes folder. [Repo](https://github.com/siriusmart/webpan)
 - **Studying Computer Science** - projects will be inactive when I'm busy. [Lecture notes](https://github.com/Siriusmart/notesdump/blob/master/README.md)
 
@@ -17,7 +18,6 @@
 - **Bar2** - Fully automated highway travel for Minecraft anarchy servers. [Repo](https://github.com/Siriusmart/bar2-public)
 
 ## I am currently plotting...
-- For a **logic gate simulator** to build a computer in, and
 - A hackable node-based **video editor**, similar to Manim but using ideas from Davinci Resolve, and also
 - A plan to **take over the world**.
 
