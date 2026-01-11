@@ -1,5 +1,5 @@
 ## Right now, I am working on...
-- **eXtensible Digital logic SIMulator (under design)** - a logic gate simulator where you can make your own gates. [Project](https://github.com/orgs/25cst/projects/3)
+- **eXtensible Digital logic SIMulator (WIP)** - a logic gate simulator where you can make your own gates. [Repo](https://github.com/25cst/xdsim)
 - **Webpan (WIP)** - an anything-to-anything build tool so I can publish my entire notes folder. [Repo](https://github.com/siriusmart/webpan)
 - **Studying Computer Science** - projects will be inactive when I'm busy. [Lecture notes](https://github.com/Siriusmart/notesdump/blob/master/README.md)
 
