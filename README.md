@@ -1,34 +1,21 @@
-## Right now, I am working on...
-- **eXtensible Digital logic SIMulator (WIP)** - a logic gate simulator where you can make your own gates. [Repo](https://github.com/25cst/xdsim)
-- **Webpan (WIP)** - an anything-to-anything build tool so I can publish my entire notes folder. [Repo](https://github.com/siriusmart/webpan)
-- **Studying Computer Science** - projects will be inactive when I'm busy. [Lecture notes](https://github.com/Siriusmart/notesdump/blob/master/README.md)
+# I love customisations!
 
-## In the past year, I wrote code for...
-- **YouTube TUI** - the only thing everyone sees on my profie, urgh! [Docs](https://tui.siri.ws/youtube) | [Repo](https://github.com/siriusmart/youtube-tui)
-- **JSCore** - JavaScript modding\* support for Minecraft Java. [Docs](https://jscore.siri.ws) | [Modrinth](https://modrinth.com/mod/jscore) | [Repo](https://github.com/fabriccore/jscore)
-- **AnkiPub Viewer** - share Anki flashcards on a static website. [Instance (with a few decks I made)](https://anki.siri.ws) | [Repo](https://github.com/Siriusmart/ankipub-viewer)
-- **Discord Proximity** - adds proximity chat support for Discord. [Setup Guide](https://github.com/Siriusmart/DiscordProximity/blob/master/README.md)
+**The best kind of software are hackable** - you can write code to modify its behaviour. This gives the list of things that I like:
+- Minecraft, Classicube, Mindustry, osu!
+- Linux, Hyprland, MPD and other lesser programs
+- Neovim, Typst
+- The dozen userscripts and extensions that makes my life amazing, especially uBO and Vencord
+- Matrix :D
 
-<sub>*No Mixins support yet.</sub>
+Here are stuff I made in the same spirit:
+- [**Webpan**](https://github.com/Siriusmart/webpan) - plugin-based static site generator
+- [**xdsim**](https://github.com/25cst/xdsim) - logic gate simulator but every gate is a C library
+- [**YouTube TUI**](https://tui.siri.ws/youtube/) - my first project, where almost everything can be changed as a config option
+- [**JSCore**](https://jscore.siri.ws/) - Minecraft JavaScript engine (with deobfuscation)
 
-## A long long time ago, I made...
-- **Feedscraper** - RSS feed generator by web-scraping news sites. [Repo](https://github.com/siriusmart/feedscraper)
-- **GM Services** - Multi-format article publishing site. [Repos](https://github.com/orgs/gmornin/repositories?type=source)
-- **ccBancho** - Socials system for Minecraft Classic. [Repo](https://github.com/Siriusmart/ccBancho)
-- **Bar2** - Fully automated highway travel for Minecraft anarchy servers. [Repo](https://github.com/Siriusmart/bar2-public)
-
-## I am currently plotting...
-- A hackable node-based **video editor**, similar to Manim but using ideas from Davinci Resolve, and also
-- A plan to **take over the world**.
-
-## Of course, I have always been working on...
-- Styling up my Hyprland daily driver. [Dotfiles](https://github.com/Siriusmart/dotfiles)
-
-## Say Hi to Me :D
-- Check out my awesome [YouTube channel](https://youtube.com/@siriusmart)!
-- Join my development server on [Discord](https://discord.gg/WAR9aKVFQJ) and [Matrix](https://matrix.to/#/!qrUQMTxUReiPipzwhb:matrix.org?via=matrix.org), bridged to each other. 
-- You can also friend me on [Discord](https://discord.com/users/623823202073706496) or [Matrix](https://matrix.to/#/@siriusmart:matrix.org).
-- And most importantly, **follow me on GitHub** - where everything happens.
+<center>
+  <img width="100" height="100" alt="larping-pfp" src="https://github.com/user-attachments/assets/39c0a016-b4f2-42c3-8f37-0c8f16c6728d" />
+</center>
 
 ![profile card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siriusmart&theme=github_dark)
 ![repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siriusmart&theme=github_dark)
