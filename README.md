@@ -13,6 +13,12 @@ Here are stuff I made in the same spirit:
 - [**YouTube TUI**](https://tui.siri.ws/youtube/) - my first project, where almost everything can be changed as a config option
 - [**JSCore**](https://jscore.siri.ws/) - Minecraft JavaScript engine (with deobfuscation)
 
+<br>
+
+Just say *Hi!* whenever you feel like it, I will be there: [matrix](https://matrix.to/#/@sirius:siri.ws), [email](mailto:sirius@siri.ws)
+
+<br>
+
 <div align="center">
   <img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/6a9e761b-b106-4a3f-89df-5249c26955e8" />
   <img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/414346b4-32b0-4ef4-9de3-996893961ae9" />
