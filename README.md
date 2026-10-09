@@ -15,7 +15,7 @@ Here are stuff I made in the same spirit:
 
 <br>
 
-Just say *Hi!* whenever you feel like it, I will be there: [matrix](https://matrix.to/#/@sirius:siri.ws), [email](mailto:sirius@siri.ws)
+Just say *Hi!* whenever you feel like it, I will be there: [matrix](https://matrix.to/#/@siriusc:matrix.org), [email](mailto:sirius@siri.ws)
 
 <br>
 
